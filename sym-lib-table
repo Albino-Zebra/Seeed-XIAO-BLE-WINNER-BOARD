@@ -2,4 +2,7 @@
   (lib (name "Seeeduino XIAO")(type "Legacy")(uri "${KIPRJMOD}/LIbrarys/Seeeduino XIAO KICAD/Seeeduino XIAO.lib")(options "")(descr ""))
   (lib (name "random-keyboard-parts")(type "Legacy")(uri "${KIPRJMOD}/LIbrarys/random-keyboard-parts.pretty-master/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
   (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "${KIPRJMOD}/LIbrarys/MX_Alps_Hybrid-master/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "marbastlib-choc")(type "KiCad")(uri "${KIPRJMOD}/LIbrarys/marbastlib-main/marbastlib-choc.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/LIbrarys/marbastlib-main/marbastlib-mx.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/LIbrarys/marbastlib-main/marbastlib-various.kicad_sym")(options "")(descr ""))
 )
